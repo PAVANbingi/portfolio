@@ -1,0 +1,194 @@
+<div class="portfolio-item video code">
+                    <div class="image">
+                        <img src="img/phone.png" alt="Fake Phone">
+                    </div>
+                    <div class="hover-items">
+                        <h3>LapTop Price Predication--ML</h3>
+                        <div class="icons">
+                            <a href="https://github.com/andbardii/fs0223-Andrea-Bardi/tree/master/m3/s1/g5" target="_blank" class="icon">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <a class="openBtn icon" data-src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7089266841327411200" target="_blank">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-play" viewBox="0 0 16 16">
+                                    <path d="M10.804 8 5 4.633v6.734L10.804 8zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C4.713 12.69 4 12.345 4 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692z"/>
+                                </svg>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                ===============
+                           <div class="portfolio-item video code">
+                    <!-- filter by class it's video -->                    
+                    <div class="image">
+                        <img src="img/demo.png" alt="HODLE App">
+                    </div>
+                    <div class="hover-items">
+                        <h3>tribute website</h3>
+                        <div class="icons">
+                            <!-- Chrome -->
+                            <a href="https://pavanbingi.github.io/Tribute-Website_project_1/" target="_blank" class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-browser-chrome" viewBox="0 0 16 16">
+                                    <path fill-rule="evenodd" d="M16 8a8.001 8.001 0 0 1-7.022 7.94l1.902-7.098a2.995 2.995 0 0 0 .05-1.492A2.977 2.977 0 0 0 10.237 6h5.511A8 8 0 0 1 16 8ZM0 8a8 8 0 0 0 7.927 8l1.426-5.321a2.978 2.978 0 0 1-.723.255 2.979 2.979 0 0 1-1.743-.147 2.986 2.986 0 0 1-1.043-.7L.633 4.876A7.975 7.975 0 0 0 0 8Zm5.004-.167L1.108 3.936A8.003 8.003 0 0 1 15.418 5H8.066a2.979 2.979 0 0 0-1.252.243 2.987 2.987 0 0 0-1.81 2.59ZM8 10a2 2 0 1 0 0-4 2 2 0 0 0 0 4Z"/>
+                                </svg>
+                            </a>
+                            <!-- github -->
+                            <a href="https://github.com/PAVANbingi/Tribute-Website_project_1" target="_blank" class="icon">
+                                <i class="fab fa-github"></i>
+                            </a>
+                            <!-- linkdin video -->
+
+                            <a class="openBtn icon" href="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7168833398252285954" target="_blank" rel="noopener noreferrer">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-play" viewBox="0 0 16 16">
+                                    <path d="M10.804 8 5 4.633v6.734L10.804 8zm.792-.696a.802.802 0 0 1 0 1.392l-6.363 3.692C4.713 12.69 4 12.345 4 11.692V4.308c0-.653.713-.998 1.233-.696l6.363 3.692z"/>
+                                </svg>
+                            </a>
+                            
+
+                        </div>
+                    </div>
+                </div>
+                ===================
+                light theme :
+                
+.light-mode {
+  --color-primary: #FFFFFF;
+  --color-secondary: #FF5733;
+  --color-white: #454e56;
+  --color-black: #000;
+  --color-grey0: #f8f8f8;
+  --color-grey-1: #6c7983;
+  --color-grey-2: #6c7983;
+  --color-grey-3: #6c7983;
+  --color-grey-4: #454e56;
+  --color-grey-5: #f8f8f8;
+  --color-grey-6: #12181b;
+}
+
+:root {
+  --color-primary: #000000;
+  --color-secondary: #A00A0B;
+  --color-white: #FFFFFF;
+  --color-black: #000;
+  --color-grey0: #f8f8f8;
+  --color-grey-1: #dbe1e8;
+  --color-grey-2: #b2becd;
+  --color-grey-3: #6c7983;
+  --color-grey-4: #454e56;
+  --color-grey-5: #2a2e35;
+  --color-grey-6: #12181b;
+  --br-sm-2: 14px;
+  --box-shadow-1: 0 3px 15px rgba(0,0,0,.3);
+}
+=========================
+:root {
+  --color-primary: #000000;
+  --color-secondary: #920707;
+  --color-white: #ffffff;
+  --color-black: #ff0000;
+  --color-grey0: #ff0000;
+  --color-grey-1: #ff0000;
+  --color-grey-2: #b2becd;
+  --color-grey-3: #ff0000;
+  --color-grey-4: #454e56;
+  --color-grey-5: #2a2e35;
+  --color-grey-6: #ff0000;
+  --br-sm-2: 14px;
+  --box-shadow-1: 0 3px 15px rgba(0,0,0,.3);
+}
+:root {
+  --color-primary: #000000;
+  --color-secondary: #A00A0B;
+  --color-white: #FFFFFF;
+  --color-black: #000;
+  --color-grey0: #f8f8f8;
+  --color-grey-1: #dbe1e8;
+  --color-grey-2: #b2becd;
+  --color-grey-3: #6c7983;
+  --color-grey-4: #454e56;
+  --color-grey-5: #2a2e35;
+  --color-grey-6: #12181b;
+  --br-sm-2: 14px;
+  --box-shadow-1: 0 3px 15px rgba(0,0,0,.3);
+}
+.light-mode {
+  --color-primary: #ffffff;  
+  --color-secondary: #0066ff;  
+  --color-white: #000000;  
+  --color-black: #f50a0a;  
+  --color-grey0: #ff0000;  
+  --color-grey-1: #fa0000;  
+  --color-grey-2: #000000;  
+  --color-grey-3: #ff0000;  
+  --color-grey-4: #f3f3f3;  
+  --color-grey-5: #00000014;  
+  --color-grey-6: #ff0000;  
+}
+.light-mode {
+  --color-primary: #FFFFFF;
+  --color-secondary: #FF5733;
+  --color-white: #454e56;
+  --color-black: #000;
+  --color-grey0: #f8f8f8;
+  --color-grey-1: #6c7983;
+  --color-grey-2: #6c7983;
+  --color-grey-3: #6c7983;
+  --color-grey-4: #454e56;
+  --color-grey-5: #f8f8f8;
+  --color-grey-6: #12181b;
+}
+
+
+
+.theme-btn {
+  top: 5%;
+  right: 3%;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  background-color: var(--color-grey-4);
+  cursor: pointer;
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+  transition: all 0.1s ease-in-out;
+}
+.theme-btn:active {
+  transform: translateY(-3px);
+}
+.theme-btn i {
+  font-size: 1.4rem;
+  color: var(--color-grey-2);
+  pointer-events: none;
+}
+.theme-btn {
+    width: 50px;
+    height: 50px;
+  }
+
+  <div class="controls">
+
+        <div class="control active-btn" data-id="home" >
+            <i class="fas fa-home"></i>
+        </div>
+
+
+        <div class="control" data-id="about">
+            <i class="fas fa-crown"></i>
+        </div>
+
+
+        <div class="control" data-id="portfolio">
+            <i class="fas fa-briefcase"></i>
+        </div>
+
+
+        <div class="control" data-id="blogs">
+            <i class="fas fa-graduation-cap"></i>
+        </div>
+        
+
+        <div class="control" data-id="contact">
+            <i class="fas fa-user"></i>
+        </div>
